@@ -12,6 +12,9 @@
  */
 public class ReverseStringWithoutInbuiltFn {
 
+    /*
+    api to reverse the string
+     */
         public String reverseString(String s) {
             String output;
             char[] outputChar = new char[s.length()];
